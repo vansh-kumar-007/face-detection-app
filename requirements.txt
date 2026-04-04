@@ -6,3 +6,4 @@ facenet-pytorch
 torch==2.2.2
 Pillow
 scikit-learn
+python-multipart
