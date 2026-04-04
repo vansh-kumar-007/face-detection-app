@@ -3,7 +3,7 @@ import requests
 from PIL import Image
 import io
 
-API_URL = "http://localhost:8000"
+API_URL = "https://face-detection-app-wgm4.onrender.com"
 
 st.title("🔍 Face Recognition System")
 
