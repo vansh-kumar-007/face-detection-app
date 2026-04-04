@@ -1,11 +1,8 @@
-numpy==1.24.4
-opencv-python==4.8.0.76
-facenet-pytorch
-mtcnn
 fastapi
 uvicorn
-streamlit
-requests
-scikit-learn
-torch
+numpy==1.24.4
+opencv-python-headless
+facenet-pytorch
+torch==2.2.2
 Pillow
+scikit-learn
