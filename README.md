@@ -28,6 +28,10 @@
   👉 https://face-detection-app-wgm4.onrender.com/docs
 
 ---
+## 🎥 Demo Video
+
+👉 [Watch Full Demo](https://www.youtube.com/watch?v=MllYlmUcvk0)
+
 
 ## 🧠 Project Overview
 
@@ -49,6 +53,23 @@ It uses a pretrained **FaceNet model** to extract facial embeddings and recogniz
 * ☁️ Cloud Deployment (Render + Streamlit Cloud)
 
 ---
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/api_overview.png" width="45%">
+  <img src="screenshots/predict.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="screenshots/add_person.png" width="45%">
+  <img src="screenshots/delete_person.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="screenshots/list_people.png" width="45%">
+</p>
+
 
 ## 🏗️ Architecture
 
